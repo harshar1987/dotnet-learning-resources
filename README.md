@@ -156,7 +156,7 @@
 ## Miscellaneous
 
 ### Repos
-
+* [Distributed Application Framework for .NET](https://github.com/MassTransit/MassTransit)
 * [Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+](https://github.com/App-vNext/Polly)
 
 * [Samples of simple service discovery patterns with ASP .NET Core](https://github.com/cecilphillip/aspnet-servicediscovery-patterns)
